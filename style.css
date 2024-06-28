@@ -229,6 +229,18 @@ section {
     text-align: justify;
 }
 
+.reserve{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+.booking{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(29, 78, 97);
+    font-weight: bold
+
+}
 
 /* 952 */
 /* 858 */
